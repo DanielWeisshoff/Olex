@@ -1,0 +1,48 @@
+BASICS:
+
+[-] - primitive, Objekte
+[-] - Call By Reference/Value
+[-] - arrays
+[-] - Rückgabewerte (return)
+[-] - foreach-Schleife
+[-] - break und continue
+[-] - public, private, protected
+[-] - static
+[-] - getter, setter
+[-] - Konstruktor
+[-] - attribute
+[-] - this
+[-] - Enum
+
+[-] - Vererbung
+[-] - super() schlüsselwort
+[-] - polymorhpie
+[-] - abstrakte Klassen
+
+[-] - Generic
+[-] - interface
+[-] - final schlüsselwort
+[-] - Startparameter args[]
+[-] - rekursive Methoden
+[-] - excpetions
+[-] - Type-casting
+[-] - Escape Sequenzen
+
+
+
+ERWEITERT:
+	[-] - Projekt richtig Strukturieren
+	[-] - Als Team arbeiten -> Git
+	[-] - Komplexität von Methoden
+
+
+DATENSTRUKTUREN:
+	[-] - LinkedList
+	[-] - DoublyLinkedList
+	[-] - HashSet
+	[-] - HashMap
+	[-] - array[]
+	[-] - Graph
+	[-] - Tree
+	[-] - Stack
+	[-] - Queue
