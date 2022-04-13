@@ -1,6 +1,8 @@
+package arena;
+
 public class Arena {
 	protected Hero[] hero;
-	//<Access Modifier> <Typ> <Name>
+	// <Access Modifier> <Typ> <Name>
 
 	public Arena(Hero[] hero) {
 		this.hero = hero;
